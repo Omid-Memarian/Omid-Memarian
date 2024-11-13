@@ -1,6 +1,6 @@
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Omid-Memarian-239a3b.svg)](https://github.com/Omid-Memarian)
+[![GitHub](https://img.shields.io/badge/GitHub-%40OmidMemarian-239a3b.svg)](https://github.com/Omid-Memarian)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/omid-memarian/)
 
 Hi, I am [@ashtom](https://github.com/Omid-Memarian). 👋 I am the [CEO](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/) of [@GitHub](https://github.com) and love building products that make developers' lives easier. We’re always open to hearing your feedback so drop us a note (or your entire GitHub wishlist) in [Discussions](https://github.com/orgs/community/discussions). I grew up in 🇩🇪, live in the Pacific Northwest of the 🇺🇸, and you may know me as the co-founder of HockeyApp. I’m also a LEGO enthusiast and love turning that GitHub contribution graph ⬇️ more green 🟩 in my spare time. 
